@@ -11,6 +11,6 @@ In this library information and management system , we can enter the record of n
 ![WhatsApp Image 2022-05-31 at 11 38 28 PM](https://user-images.githubusercontent.com/73352918/171262065-07b40d14-d005-44f0-a829-fe02b94a8a28.jpeg)
 # Display Book List
 ![Screenshot (2)](https://user-images.githubusercontent.com/73352918/171262380-fd3e8a0c-a0a8-4d3b-9f7b-c5e56ecc0221.png)
-Issue Book from library
+# Issue Book from library
 ![Screenshot (3)](https://user-images.githubusercontent.com/73352918/171262572-583e8c15-8197-4ec6-98f6-43d89ea27b2d.png)
-Deposit book in library (On late submission , there is a fine)
+# Deposit book in library (On late submission , there is a fine)
