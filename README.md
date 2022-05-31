@@ -8,3 +8,4 @@ In this library information and management system , we can enter the record of n
 # Display Student Record
 ![WhatsApp Image 2022-05-31 at 11 34 38 PM](https://user-images.githubusercontent.com/73352918/171261851-28fdc0c4-d02f-4b07-8768-025e970b2a3e.jpeg)
 # Create new book entry
+![WhatsApp Image 2022-05-31 at 11 38 28 PM](https://user-images.githubusercontent.com/73352918/171262065-07b40d14-d005-44f0-a829-fe02b94a8a28.jpeg)
