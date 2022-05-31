@@ -3,3 +3,4 @@ In this library information and management system , we can enter the record of n
 ![WhatsApp Image 2022-05-31 at 11 26 51 PM](https://user-images.githubusercontent.com/73352918/171259972-5635745a-efda-48af-976a-8428cdea4e5c.jpeg)
 # Administrator Menu
 ![WhatsApp Image 2022-05-31 at 11 28 48 PM](https://user-images.githubusercontent.com/73352918/171261221-a810cbcd-a058-492a-a248-fc9a1c0fbbd2.jpeg)
+# Create Student Record
